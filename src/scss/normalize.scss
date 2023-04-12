@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    border: none;
+    font-family: C7;
+}
+
+body{
+    max-width: 1920px;
+    margin: 0 auto;
+    width: 100%;
+    background-color: #040D1F;
+}
+
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 15px;
+}

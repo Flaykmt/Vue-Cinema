@@ -1,0 +1,25 @@
+.btn {
+    color: #000;
+    background-color: #f18128;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 4px;
+    padding: 17px 48px;
+    transition: 300ms;
+    display: block;
+    width: max-content;
+    &:hover {
+        color: #fff;
+        background-color: #040d1f;
+    }
+}
+.title {
+    color: #f18128;
+    font-size: 36px;
+    border-bottom: 2px solid #f18128;
+    width: max-content;
+    text-transform: capitalize;
+    padding-bottom: 5px;
+    font-family: C4;
+    margin: 54px 0 63px;
+}
